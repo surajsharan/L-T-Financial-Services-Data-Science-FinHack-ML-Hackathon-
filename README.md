@@ -1,4 +1,5 @@
-![title](LTFS.JPG)
+![title](ltfs.jpg)
+
 # LTFS-Data-Science-FinHack-ML-Hackathon-
 LTFS Data Science Hackathon (ML)
 
