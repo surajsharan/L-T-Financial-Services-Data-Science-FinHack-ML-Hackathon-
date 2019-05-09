@@ -42,7 +42,7 @@ Test data is further randomly divided into Public (25%) and Private (75%) data. 
 ### Leaderboard
 Public LB : 51th Rank out of 1342 Participants
 
-Private LB : 51th Rank out of 1342 Participants
+Private LB : 49th Rank out of 1342 Participants
 
 
 
